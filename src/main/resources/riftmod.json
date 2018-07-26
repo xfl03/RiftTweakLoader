@@ -1,0 +1,10 @@
+{
+  "id": "rifttweakloader",
+  "name": "RiftTweakLoader",
+  "authors": [
+    "xfl03"
+  ],
+  "listeners": [
+    "me.xfl03.rift.tweakloader.InitListener"
+  ]
+}
